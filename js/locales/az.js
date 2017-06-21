@@ -71,7 +71,7 @@
             deleteThumb: 'faylı sil',
             uploadThumb: 'faylı yüklə',
             uploadBatch: 'bir neçə faylı yüklə',
-            uploadExtra: 'məlumatların yüklənməsi'
+            uploadExtra: 'yükləmə'
         },
         dropZoneTitle: 'Faylları bura daşıyın &hellip;',
         dropZoneClickTitle: '<br>(Və ya seçin {files})',
